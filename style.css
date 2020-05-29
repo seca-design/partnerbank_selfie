@@ -18,7 +18,7 @@ html, body{
   }
 
   #camera--overlay{
-      height: 750px;
+      height: 667px;
       width: 375px;
       position: fixed;
       z-index: 4;
